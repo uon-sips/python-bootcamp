@@ -6,4 +6,4 @@ If you have a computer and want to follow along, download bootcamp.ipynb and ope
 2. Click the "Download raw file" button (download arrow icon) near the top left of the page.
 
 
-Along the way you will also need my_pkge.py in the same folder on your computer, which you can get the same way.
+Along the way you will also need my_pkge.py and labdata.dat in the same folder on your computer, which you can get the same way.
